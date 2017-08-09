@@ -5,7 +5,11 @@ A set of guidelines to work with the POC projects.
 To compare and contrast technologies. You can use whatever technology you want, but it must a mobile application. 
 
 Example applications:
-- Chat
+- Chat - **Recommended**
+  - A chat application should be structured around users.
+  - Group chats should be secondary, not primary.
+  - The device should hold at least *some* of the recent messages locally for a form of history.
+  - It should be realtime
 - TODO list
 - Notes
 - Timer and alarms
@@ -18,6 +22,7 @@ All POC should meet the requirements on this list.
 - [ ] "native" feel, this can be accomplished with a native implementation, or something like `react-native`
 - [ ] Data input (it can't be read-only)
 - **Must be submitted by August 16, 2017. Submit with PR** It is a short timeframe, but this is on purpose.
+ - Make a PR on this readme and add your application repo to the list of `POC`'s if it isn't a fork of this repository. 
 
 ## Optional Checkboxes
 You don't have to have these things, but it would be cool if you did.
@@ -33,3 +38,6 @@ You don't have to have these things, but it would be cool if you did.
 ## Ready, set, go.
 Good luck.
 
+
+## Known P.O.C. Projects
+- None yet!
