@@ -1,4 +1,6 @@
 # mobile-starter
+
+[![Join the chat at https://gitter.im/whiteboards/mobile-starter](https://badges.gitter.im/whiteboards/mobile-starter.svg)](https://gitter.im/whiteboards/mobile-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A set of guidelines to work with the POC projects.
 
 ## What? Why?
